@@ -1,0 +1,15 @@
+{
+  "name": "infodevtask1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "sass --watch --no-source-map style/scss/style.scss style/css/style.css"
+  },
+  "author": "Rajan limbu",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
